@@ -12,7 +12,7 @@ I'm Tamires 💫
 Exploring the world of technology 💻 
 </div>
 <div align="center">
-I'm Civil Engineering, but in the near future a full stack developer 🚀
+I'm Civil Engineering, but in the near future a Full Stack Developer 🚀
 </div>
 &nbsp;
 

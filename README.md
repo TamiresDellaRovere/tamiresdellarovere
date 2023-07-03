@@ -11,9 +11,6 @@ I'm Tamires 💫
 <div align="center">
 Exploring the world of technology 💻 
 </div>
-<div align="center">
-I'm Civil Engineering, but in the near future a Full Stack Developer 🚀
-</div>
 &nbsp;
 
 \
